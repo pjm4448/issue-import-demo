@@ -1,10 +1,17 @@
 ---
 name: Work item
-about: Describe a change or task
+about: Define an independently implementable work item
 title: ""
-labels: []
+labels:
+  - work-item
 assignees: []
 ---
+
+## Parent issue
+
+Link the parent issue:
+
+- Parent: #
 
 ## Summary
 
